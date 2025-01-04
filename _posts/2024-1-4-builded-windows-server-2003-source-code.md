@@ -31,15 +31,6 @@ P.S: it tooks 3-4 hour regardless of your system specs.
 
 I'm not gonna dive into details too much, thats all you need to know.
 
-# Other Stuff that i want to talk about
-
-Recently, Saints Row 4 Source code leaked and i really want to compile it.<br>
-If anyone knows how to build, please tell me.<br>
-I have GDK or stuff, we figured out a lot of things with help of Sorynx(Contributor from our discord server) and unison.
-
-
-We compiled the PS4 version of GTA 5 and some of our members played on their own playstation 4's, what a W.
-
 ---
 
 Thanks for reading my first post, hope you're enjoyed :)
