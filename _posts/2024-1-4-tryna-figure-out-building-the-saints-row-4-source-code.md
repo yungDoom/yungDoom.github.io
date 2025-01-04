@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tryna Figure Out Building The Saints Row 4 Source Code
-tags: terraria tmodloader goldberg
+tags: saints saintsrow sr4
 ---
 
 I need your help, if you know how to build this please let me know.
@@ -16,3 +16,7 @@ Im trying to compile SR4 Source Code lately<br>
 If anyone knows how to build this source code, add me on discord: o1ps<br>
 Here is the source code link if anyone wants to help me: <https://gofile.io/d/PqdaAk><br>
 Password of the .7z file is: ``LDFsvm36*q2236.cx-=312"5xc32-1236`12b_sx.[232#6-12cvw0s-``
+
+---
+
+Thanks for reading my first post, hope you're enjoyed :)
