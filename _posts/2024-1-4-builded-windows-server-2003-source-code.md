@@ -14,7 +14,9 @@ Before i explain how i compiled the source code of windows server 2003 or XP if 
 First of all, i used this guide in order to compile the source: <https://rentry.co/build-win2k3><br>
 Of course almost all the links was down, i needed to find every file myself. Which i did, thanks to **CSDN**.<br>
 Here is the files you probably needed to build it: <https://archive.org/details/20201202-downlevel><br>
-You need this zip file too, it contains a lot of important files such as **prepatched 10a** which is hard to find: https://mega.nz/file/e2o1SCTA#8ic-vKcVZJTG7koy-94nPUxBSWDyg_8TPHkX1LiekfQ
+You need this zip file too, it contains a lot of important files such as **prepatched 10a** which is hard to find: https://mega.nz/file/e2o1SCTA#8ic-vKcVZJTG7koy-94nPUxBSWDyg_8TPHkX1LiekfQ<br>
+The last thing you need is a tool named "certutil" which generates licences for the win2k3, here is the tool you want to use: <https://github.com/P0L3NARUBA/win-2k3-certutil><br>
+  - You can't compile the source without this so this is a critical util.
 
 
 I backuped everything that i can so if any guide or link down, just hit me up on discord: o1ps
