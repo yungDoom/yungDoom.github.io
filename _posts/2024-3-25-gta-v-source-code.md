@@ -5,7 +5,7 @@ tags: gta gta5 gtav
 ---
 
 In this post, i will talk about Grand Theft V Source Code.
-If you want the tutorial and the source code, check out this repository: [https://github.com/yungDoom/gtav-source-code-build-guide](https://github.com/yungDoom/gtav-source-code-build-guide)
+If you want the tutorial and the source code, check out this repository: [https://github.com/yungDoom/gtav-source-code-build-guide](https://github.com/voyageprofessor/gtav-source-code-build-guide)
 
 ---
 
@@ -40,9 +40,9 @@ Here is the all the tools that you need.
 **This guy that finished the debug build that compiled by himself, he has 60+ hours playtime on his own compiled GTA 5.<br>
 Here is all the video links that guy played and finished the whole game with debug build:**
 
-[https://www.youtube.com/watch?v=bndLvZIuXHg](https://www.youtube.com/watch?v=bndLvZIuXHg)<br>
-[https://www.youtube.com/watch?v=Nlp60Xhkgbk](https://www.youtube.com/watch?v=Nlp60Xhkgbk)<br>
-[https://www.youtube.com/watch?v=QQS0-32voms](https://www.youtube.com/watch?v=QQS0-32voms)
+~[https://www.youtube.com/watch?v=bndLvZIuXHg](https://www.youtube.com/watch?v=bndLvZIuXHg)~<br>
+~[https://www.youtube.com/watch?v=Nlp60Xhkgbk](https://www.youtube.com/watch?v=Nlp60Xhkgbk)~<br>
+~[https://www.youtube.com/watch?v=QQS0-32voms](https://www.youtube.com/watch?v=QQS0-32voms)~
 
 *Not gonna lie this guy looks like Matt Stonie XD*
 
@@ -56,9 +56,9 @@ Here is all the video links that guy played and finished the whole game with deb
 
 **I recorded some stuff, here you can check out:**
 
-[https://www.youtube.com/watch?v=-RHmcVH4bGQ](https://www.youtube.com/watch?v=-RHmcVH4bGQ)<br>
-[https://www.youtube.com/watch?v=I37ZHqyX8Cs](https://www.youtube.com/watch?v=I37ZHqyX8Cs)<br>
-[https://www.youtube.com/watch?v=RswuDm-ZPWs](https://www.youtube.com/watch?v=RswuDm-ZPWs)
+~[https://www.youtube.com/watch?v=-RHmcVH4bGQ](https://www.youtube.com/watch?v=-RHmcVH4bGQ)~<br>
+~[https://www.youtube.com/watch?v=I37ZHqyX8Cs](https://www.youtube.com/watch?v=I37ZHqyX8Cs)~<br>
+~[https://www.youtube.com/watch?v=RswuDm-ZPWs](https://www.youtube.com/watch?v=RswuDm-ZPWs)~
 
 **And you can search the web for more videos.**
 
@@ -83,4 +83,8 @@ It was not easy but atleast its a good thing, but it was easier than compiling C
 # Epilogue
 
 Okay thats all im gonna say, just goodbye then.<br>
-It's been 2 month since i published a blog, Sorry about that :P 
+It's been 2 month since i published a blog, Sorry about that :P
+
+---
+
+Thanks for reading my first post, hope you're enjoyed :)
