@@ -5,7 +5,7 @@ tags: gta gta5 gtav
 ---
 
 In this post, i will talk about Grand Theft V Source Code.
-If you want the tutorial and the source code, check out this repository: [https://github.com/yungDoom/gtav-source-code-build-guide](https://github.com/voyageprofessor/gtav-source-code-build-guide)
+If you want the tutorial and the source code, check out this repository: [https://github.com/voyageprofessor/gtav-source-code-build-guide](https://github.com/voyageprofessor/gtav-source-code-build-guide)
 
 ---
 
