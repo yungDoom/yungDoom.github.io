@@ -47,10 +47,6 @@ You need change some .dll's from the game and source code directory.
 
 Get the goldberg emulator .dll's from here: 
 
-**<https://github.com/WH0LEWHALE/goldberg-emu/releases/tag/release>**
-
-or you can get from the original repository: 
-
 **<https://gitlab.com/Mr_Goldberg/goldberg_emulator/>**
 
 And then i just did these steps in order to implement the Goldberg Steam Emulator,
@@ -150,5 +146,4 @@ Well done, Now you can open the game without steam!
 
 ---
 
-
-Thanks for reading my first post, hope you guys enjoyed :)
+Thanks for reading my first post, hope you're enjoyed :)
