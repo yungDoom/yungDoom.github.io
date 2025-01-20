@@ -9,9 +9,8 @@ tags: super mario supermario supermario64 sm64
 ---
 
 Yes, in fact im playing the game on my phone and my computer.<br>
-Im using M64Plus FZ Emulator on phone, Project64 on PC.
-
-I having a lot of fun while playing this game, do i recommend it... of course i do!
+Im using M64Plus FZ Emulator on phone, Project64 on PC.<br>
+having a lot of fun while playing this game, do i recommend it... of course i do!
 
 ---
 
