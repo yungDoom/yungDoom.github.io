@@ -31,7 +31,8 @@ By the way it tooks a lot of time soooooo yeah just wait until it gets compiled.
 P.S: it tooks 3-4 hour regardless of your system specs.
 
 
-I'm not gonna dive into details too much, thats all you need to know.
+I'm not gonna dive into details too much, thats all you need to know.<br>
+**16/3/2025: I made a guide about how to build win2k3, you can check out my organization for that.**
 
 ---
 
